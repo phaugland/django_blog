@@ -113,6 +113,7 @@ env.bak/
 venv.bak/
 myvenv
 myvenv/
+AssignEnv
 
 # Spyder project settings
 .spyderproject
@@ -138,3 +139,6 @@ files
 
 #ignore vscode
 .vscode
+
+#ignore database
+db.sqlite3
